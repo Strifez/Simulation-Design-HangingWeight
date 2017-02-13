@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿// Jason Huang 
+// 300818592 
+// This script allows the user to drag the weight up and down
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -25,15 +28,6 @@ public class OneTon : MonoBehaviour {
 	// Update is called once per frame
 	void Update ()
 	{
-		/*
-		if (transform.position.y >= 7) {
-			Vector3 cursorPoint = new Vector3 (Input.mousePosition.x, Input.mousePosition.y, screenPoint.z);
-			Vector3 cursorPosition = Camera.main.ScreenToWorldPoint (cursorPoint) + offset;
-			transform.position = cursorPosition;
-			transform.position = new Vector3 (0, -7, transform.position.z);
-		} else if (transform.position.y <= -1 && transform.position.y >= 7) {
-			OnMouseDrag ();
-		}
-		*/
+
 	}
 }

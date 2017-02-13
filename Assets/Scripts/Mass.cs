@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿// Jason Huang 
+// 300818592 
+// This script renders the value of the text for mass and spring constant
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
